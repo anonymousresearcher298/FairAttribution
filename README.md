@@ -2,7 +2,7 @@
 
 Official implementation of MaxShapley from **MAXSHAPLEY: Towards Incentive-compatible LLM-based Search with Fair Context Attribution**.
 
-MAXSHAPLEY computes Shapley values to attribute the contribution of information sources in multi-source question answering using a max-based value function with LLM-assessed relevance.
+MaxShapley computes Shapley values to attribute the contribution of information sources in multi-source question answering using a max-based value function with LLM-assessed relevance.
 
 ## Installation
 
