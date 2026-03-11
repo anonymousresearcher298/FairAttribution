@@ -15,8 +15,9 @@ pip install -r requirements.txt
 Set your API keys:
 ```bash
 export OPENAI_API_KEY="your-key"
-export ANTHROPIC_API_KEY="your-key"
+export ANTHROPIC_API_KEY="your-key" 
 ```
+NOTE: Anthropic's Haiku 3.5 model was retired in late Feb 2026, we will be updating to use Haiku 4.5. 
 
 ## Quick Start
 
