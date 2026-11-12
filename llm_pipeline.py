@@ -14,7 +14,7 @@ anthropic_api_key = os.getenv("ANTHROPIC_API_KEY")
 
 # Constants
 OPENAI_MODEL = "gpt-4.1-nano-2025-04-14"
-ANTHROPIC_MODEL = "claude-3-5-haiku-latest"
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001" # "claude-3-5-haiku-latest"
 
 PROMPT_FILE = "prompts.json"
 
